@@ -929,7 +929,7 @@ Failures:
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/strategy_syntax_method_registrar.rb:28:in `block in define_singular_strategy_method'[0m
       [36m# ./spec/system/04_favorite_comment_spec.rb:8:in `block (2 levels) in <main>'[0m
 
-Finished in 28.79 seconds (files took 2.09 seconds to load)
+Finished in 28.61 seconds (files took 1.36 seconds to load)
 [31m239 examples, 39 failures[0m
 
 Failed examples:
